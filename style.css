@@ -100,7 +100,7 @@ body {
 .accordion-item {
     border: 1px solid var(--color-secondary);
     border-radius: 6px;
-    background: linear-gradient(145deg, rgba(28, 69, 149, 0.1), rgba(28, 69, 149, 0.2));
+    background: linear-gradient(145deg, rgba(28, 69, 149, 0.7), rgba(28, 69, 149, 0.1));
     overflow: hidden;
     transition: box-shadow var(--transition-speed) ease;
 }
